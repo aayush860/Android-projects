@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_google_signin_btn_text_dark_default"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/textView16i"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:fontFamily="sans-serif-condensed"
+        android:text="@string/address"
+        android:textColor="#FF162369"
+        android:textSize="18sp"/>
+
+    <EditText
+        android:id="@+id/editText3i"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:fontFamily="sans-serif-condensed"
+        android:inputType="textPersonName"
+        android:textAlignment="textStart"
+        android:textColor="#FF162369"
+        android:textSize="18sp"/>
+
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:map="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        tools:context="x.anew.indianfoodmart.MapsActivity" />
+
+    <Button
+        android:id="@+id/button11"
+        android:layout_width="80dp"
+        android:layout_height="30dp"
+        android:layout_gravity="right"
+        android:background="@color/common_google_signin_btn_text_dark_default"
+        android:text="Refresh"
+        android:textAlignment="center"
+        android:textColor="@color/colorPrimary" />
+    <TextView
+        android:id="@+id/textView17i"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/mobile_number"
+        android:textColor="#FF162369"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/editText7i"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:inputType="phone"
+        android:textColor="#FF162369"
+        android:textSize="18sp" />
+
+    <RadioGroup
+        android:id="@+id/radioButton"
+        android:layout_width="384dp"
+        android:layout_height="70dp"
+        android:text="@string/radio_button">
+
+        <RadioButton
+            android:id="@+id/cod"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:text="@string/cash_on_delivery"
+            android:textColor="#FF162369"
+
+            android:textSize="18sp" />
+
+        <RadioButton
+            android:id="@+id/carod"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:text="@string/card_on_delivery"
+            android:textColor="#FF162369"
+            android:textSize="18sp" />
+
+    </RadioGroup>
+    <ProgressBar
+        android:id="@+id/progressBari"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="match_parent"
+        android:layout_height="49dp"
+        android:layout_weight="1"/>
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:background="#FF162369"
+        android:fontFamily="sans-serif-condensed"
+        android:text="@string/order"
+        android:textColor="#CCCC00"
+        android:textSize="24sp"
+        android:layout_weight="0"/>
+
+
+
+</LinearLayout>

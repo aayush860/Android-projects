@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/textView2oo"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Text"
+        android:textAlignment="center"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FF162369"
+        android:fontFamily="sans-serif-condensed"
+        android:text="COPY MY REFRAL"
+        android:textColor="#CCCC00"
+        android:textSize="24sp" />
+</LinearLayout>

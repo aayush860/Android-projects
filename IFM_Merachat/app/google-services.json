@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "950455228750",
+    "firebase_url": "https://merchproj-98726.firebaseio.com",
+    "project_id": "merchproj-98726",
+    "storage_bucket": "merchproj-98726.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950455228750:android:8b1e724ec2fa001a",
+        "android_client_info": {
+          "package_name": "com.anew.merchapp.ifm_merachat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950455228750-ops6ap32qmajcav6ndrbt1dpqr3q3dst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrS2hgmzL5F-KwIsv6QZ137WJKZGe2aKk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

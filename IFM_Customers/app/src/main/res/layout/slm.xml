@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ggg"
+    android:layout_width="match_parent"
+    android:layout_height="120dp"
+>
+
+    <TextView
+        android:id="@+id/textView164"
+        android:layout_width="200dp"
+        android:layout_height="45dp"
+        android:layout_marginBottom="39dp"
+        android:layout_marginEnd="78dp"
+        android:layout_marginStart="1dp"
+        android:gravity="center_vertical"
+        android:text="TextView"
+        android:textColor="@android:color/holo_red_dark"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toTopOf="@+id/button5"
+        app:layout_constraintEnd_toStartOf="@+id/textView284"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView174"
+        android:layout_width="200dp"
+        android:layout_height="35dp"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="44dp"
+        android:gravity="center_vertical"
+        android:text="TextView"
+        android:textColor="#FF162369"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toTopOf="@+id/textView164x"
+        app:layout_constraintEnd_toStartOf="@+id/textView274"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView164x"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:layout_marginBottom="1dp"
+        android:gravity="center_vertical"
+        android:text="XXX"
+        android:textColor="#FF162369"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/button5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView174" />
+
+
+    <TextView
+        android:id="@+id/textView274"
+        android:layout_width="45dp"
+        android:layout_height="80dp"
+        android:layout_marginEnd="79dp"
+        android:gravity="center_vertical"
+        android:text="@string/kg"
+        android:textAlignment="center"
+        android:textColor="#FF162369"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toTopOf="@+id/spinner44"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/textView174"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView284"
+        android:layout_width="45dp"
+        android:layout_height="80dp"
+        android:layout_marginEnd="1dp"
+        android:gravity="center_vertical"
+        android:text="@string/g"
+        android:textAlignment="center"
+        android:textColor="#FF162369"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toTopOf="@+id/spinner5"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/textView164"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Spinner
+        android:id="@+id/spinner44"
+        android:layout_width="80dp"
+        android:layout_height="35dp"
+        android:layout_marginBottom="37dp"
+        android:gravity="center"
+        android:spinnerMode="dialog"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/textView274"
+        app:layout_constraintStart_toEndOf="@+id/textView164"
+        app:layout_constraintTop_toBottomOf="@+id/textView274" />
+
+    <Spinner
+        android:id="@+id/spinner5"
+        android:layout_width="80dp"
+        android:layout_height="35dp"
+
+        android:layout_marginBottom="38dp"
+        android:gravity="center"
+        android:spinnerMode="dialog"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/button5"
+        app:layout_constraintTop_toBottomOf="@+id/textView284" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="160dp"
+        android:layout_height="40dp"
+        android:layout_marginBottom="1dp"
+        android:background="#FF162369"
+        android:fontFamily="sans-serif-condensed"
+        android:text="@string/add_to_cart"
+        android:textColor="#CCCC00"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/spinner5"
+        app:layout_constraintStart_toEndOf="@+id/textView164x"
+        app:layout_constraintTop_toBottomOf="@+id/textView164" />
+
+</android.support.constraint.ConstraintLayout>

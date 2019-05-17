@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\Ifm\app\libs\additionnal.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-12.0.1.aar\9878d5aa7e460661fd052c78d7d0d6e1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="63762d99e25ebfd92f60558dcef8aef334cc6dd3">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\debug\71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\8320b2bbf843b102310a7f76da3fe7b9\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a38a8974c8d066800237d22a86df2e88cb9e065c">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.1.aar\a8b92a7d15287297ef6fdca6347f8ac0\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fc421b0511f4e492d097c84702b2a00f101fe08a">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\debug\34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\3fca67efcbe10df0fc2fd29b60438d55\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\Ifm\app\libs\mail.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\debug\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-12.0.1.aar\9878d5aa7e460661fd052c78d7d0d6e1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="63762d99e25ebfd92f60558dcef8aef334cc6dd3">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.1.aar\a8b92a7d15287297ef6fdca6347f8ac0\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fc421b0511f4e492d097c84702b2a00f101fe08a">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.3.0\73c49077166faa4c3c0059c5f583d1d7bd1475fe\core-3.3.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\Ifm\app\libs\mail.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\3fca67efcbe10df0fc2fd29b60438d55\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\debug\44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\debug\65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.3.0\73c49077166faa4c3c0059c5f583d1d7bd1475fe\core-3.3.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\debug\62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\facebook-login-4.33.0.aar\4046cfcc415841e28b9622fa5257a6ff\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95dbd34766d3f158ef20de4b5b0206118e960709">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\facebook-login-4.33.0.aar\4046cfcc415841e28b9622fa5257a6ff\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95dbd34766d3f158ef20de4b5b0206118e960709">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\4ade22d857674e144eb9ae6c43fdc650\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\a8e9dc5ca8f72fa5973bfb52e7810ae9\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b739661c7142579d33f42801cfb71882cd217727">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\759f868051dc321ae3f3c2aa58225f8d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\debug\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\4ade22d857674e144eb9ae6c43fdc650\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\debug\33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-12.0.1.aar\e96012f326a9efccc0ce2d8927ea11c9\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ba42e6949397668e88ea3d2b188078ddf0143813">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.0.2\b9ef4342c934a1a8b107506273dc8061662a322\support-annotations-27.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\759f868051dc321ae3f3c2aa58225f8d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\Ifm\app\libs\additionnal.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\debug\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-12.0.1.aar\e96012f326a9efccc0ce2d8927ea11c9\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ba42e6949397668e88ea3d2b188078ddf0143813">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\debug\74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\ce254762d7befcd1bd09461842148a5d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\6e37abcf58527f25a5c5256f490fdf9a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\f778f1be26edb50b87cdf538fecbac10\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b478831814c5b6a1337f9e75d696d5faa6973519">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\f9d1b28f082d23bc25e4578ef03ce25d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\debug\64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\ce254762d7befcd1bd09461842148a5d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\debug\48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.0.2\b9ef4342c934a1a8b107506273dc8061662a322\support-annotations-27.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\debug\55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\f9d1b28f082d23bc25e4578ef03ce25d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\a8e9dc5ca8f72fa5973bfb52e7810ae9\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b739661c7142579d33f42801cfb71882cd217727">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\debug\39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.0.0.aar\b7e3a2c01f3515d825320379cb5c4bc3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a5f50e080b426327fe1851f6f7b5f836bff6ac9f">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\debug\71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\28361df236aa1dc84a413b79bae3ca56\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\783a091656b2104f64900edcdab86b75\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d8ec04dc91c0c90a0ceeca77c94c8b15cb7f3892">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\debug\40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\f778f1be26edb50b87cdf538fecbac10\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b478831814c5b6a1337f9e75d696d5faa6973519">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\facebook-login-4.32.0.aar\20906bfd5b51b2aa64082492aef207c4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="39c51fbcdfbe3a81c923cfd1159b27bf28738933">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\debug\75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\6e37abcf58527f25a5c5256f490fdf9a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\debug\51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\28361df236aa1dc84a413b79bae3ca56\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\debug\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\783a091656b2104f64900edcdab86b75\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d8ec04dc91c0c90a0ceeca77c94c8b15cb7f3892">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\8320b2bbf843b102310a7f76da3fe7b9\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a38a8974c8d066800237d22a86df2e88cb9e065c">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\debug\41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\2f7c443855e51c56f867a91fa34c52d2\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\fd6c027eb39615fc4324408016aa61ee\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="14bfdbf5594d4d7c320de20831849050788ab1e3">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\8c4f40e6d6a3ed85bc6d7caa70829987\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="54c67f87c9eb60be5eca37aa7d1a85f7651c4bc1">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\Ifm\app\libs\activation.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\2f7c443855e51c56f867a91fa34c52d2\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\debug\49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\8c4f40e6d6a3ed85bc6d7caa70829987\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="54c67f87c9eb60be5eca37aa7d1a85f7651c4bc1">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\debug\30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\Ifm\app\libs\activation.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\debug\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\8f2f3c242ea4e70a4506731bb82a94a8\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\debug\52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\facebook-core-4.32.0.aar\d7b09cbe7b8be55c7b22d3a77b97aa20\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58a3043ff0f8d98128c9b2d82d7d579c39a6cdec">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\debug\79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\fd6c027eb39615fc4324408016aa61ee\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="14bfdbf5594d4d7c320de20831849050788ab1e3">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\debug\46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\65cda3c04a112cbbf50b33ea15a80e12\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\debug\53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\91480c6861783dae4ec2f1649968e47a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="43777ad2c3f87b64ced35a875ce2befa178a23da">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\debug\38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\65cda3c04a112cbbf50b33ea15a80e12\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\8f2f3c242ea4e70a4506731bb82a94a8\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\debug\66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\4c8825f5c8fcf00c8792c4b0380e3d9a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4c9dde3866f60967d73035b3445bb0f703429612">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\debug\37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\91480c6861783dae4ec2f1649968e47a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="43777ad2c3f87b64ced35a875ce2befa178a23da">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\4c8825f5c8fcf00c8792c4b0380e3d9a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4c9dde3866f60967d73035b3445bb0f703429612">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\7466e616c73d670c674b6da16c38b819\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\facebook-common-4.32.0.aar\c7f28a6821557a78e0721de4cb55f258\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2d127661c786c056316cda1fe4d4cfb942b2d00c">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\debug\76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\7466e616c73d670c674b6da16c38b819\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\debug\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\facebook-common-4.33.0.aar\43a341681108f69b4f210ed374c04d05\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4d9151b05d74c7d17dba9485cbb56be7e16ed9aa">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\facebook-common-4.33.0.aar\43a341681108f69b4f210ed374c04d05\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4d9151b05d74c7d17dba9485cbb56be7e16ed9aa">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\22097fc5617ac57856629b6a6848e29b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5824717818f7ac8bd17b200b1b182c0313740c60">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d20feaa6fdc734b19da7fc48d8a6a2cf\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\debug\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d20feaa6fdc734b19da7fc48d8a6a2cf\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\22097fc5617ac57856629b6a6848e29b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5824717818f7ac8bd17b200b1b182c0313740c60">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\debug\73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\fc5008d120cd85061cb47bf35cb38c3f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed8395f343c428cd55c60499f04323083f4ef0db">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\debug\36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\4f7d6ca0eb4773fd542b903d9e7a50e3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\8c628c03408893aafb90517d50d4a89e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="22569eca3029ab00583c332a2be220cdbf091b35">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\debug\42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.3\7d7f60c4783872861222166f6164215f8951c7b1\common-1.0.3.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\fc5008d120cd85061cb47bf35cb38c3f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed8395f343c428cd55c60499f04323083f4ef0db">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\8c628c03408893aafb90517d50d4a89e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="22569eca3029ab00583c332a2be220cdbf091b35">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\c30cdf2f1f9723aa4c6b0934f6848dbb\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cdebcd9e0580b35115f655f8dc8ed7a66a8ef0fc">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\debug\47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.3\7d7f60c4783872861222166f6164215f8951c7b1\common-1.0.3.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\debug\69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\c30cdf2f1f9723aa4c6b0934f6848dbb\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cdebcd9e0580b35115f655f8dc8ed7a66a8ef0fc">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\28bc0bddae84383065011177d55493df\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\debug\50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\4f7d6ca0eb4773fd542b903d9e7a50e3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\debug\54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\28bc0bddae84383065011177d55493df\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="C:\Users\new\Ifm\app\build\intermediates\transforms\preDex\release\53.jar" />
+    </item>
+
+</items>

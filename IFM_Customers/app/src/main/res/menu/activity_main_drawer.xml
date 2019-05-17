@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/aboutus"
+            android:title="About Us"
+            android:textColor="@color/colorPrimary"/>
+        <item
+            android:id="@+id/contus"
+            android:title="Contact Us"
+            android:textColor="@color/colorPrimary"/>
+        <item
+            android:id="@+id/reff"
+            android:title="Refral Number"
+            android:textColor="@color/colorPrimary"/>
+        <item
+            android:id="@+id/logoutt"
+            android:title="Logout"
+            android:textColor="@color/colorPrimary"/>
+
+        <item
+            android:id="@+id/exit"
+            android:title="EXIT"
+            android:textColor="@color/colorPrimary"/>
+
+
+    </group>
+
+
+</menu>

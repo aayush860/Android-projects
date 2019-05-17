@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView41"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/textView30i"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:textColor="@android:color/black"
+        android:textSize="20sp"
+        android:text="GSTIN:23AJWPG6415A1ZH" />
+
+    <TextView
+        android:id="@+id/textView92i"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:textColor="@android:color/black"
+        android:textSize="20sp"
+        android:text="" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="136dp"
+        android:orientation="horizontal"
+        android:weightSum="1"
+        tools:ignore="DisableBaselineAlignment">
+
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.95"
+            tools:ignore="UselessLeaf">
+
+            <TextView
+                android:id="@+id/textView28i"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_centerHorizontal="true"
+                android:text="@string/gross_total"
+                android:textColor="#FF162369"
+                android:textSize="16sp"
+                android:layout_alignParentTop="true" />
+
+            <TextView
+                android:id="@+id/textView88i"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:text="@string/discount"
+                android:textColor="#FF162369"
+                android:textSize="16sp"
+                android:layout_below="@+id/textView28i"
+                />
+
+
+
+            <TextView
+                android:id="@+id/textView666i"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:text="@string/net_total"
+                android:textColor="#FF162369"
+                android:textSize="16sp"
+                android:visibility="visible"
+                android:layout_below="@+id/textView88i"
+                android:layout_alignParentStart="true" />
+        </RelativeLayout>
+
+
+        <RelativeLayout
+            android:layout_width="95dp"
+            android:layout_height="match_parent"
+            tools:ignore="UselessLeaf">
+
+            <TextView
+                android:id="@+id/textView29i"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_centerHorizontal="true"
+                android:text=""
+                android:layout_alignParentTop="true" />
+
+
+
+            <TextView
+                android:id="@+id/textView93i"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:text=""
+                android:textColor="#FF162369"
+                android:textSize="16sp"
+                android:layout_below="@+id/textView29i" />
+
+
+            <TextView
+                android:id="@+id/textView96i"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:text=""
+                android:textColor="#FF162369"
+                android:textSize="16sp"
+                android:layout_below="@+id/textView93i" />
+
+        </RelativeLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="220dp"
+        tools:ignore="UselessLeaf">
+
+
+        <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_alignParentTop="true"
+        android:id="@+id/linee"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_below="@+id/linee"
+            android:text="@string/bill_is_inclusive_of_all_gst"
+            android:textColor="#FF162369"
+            android:textSize="16sp"
+
+            android:id="@+id/gsts"/>
+        <EditText
+            android:id="@+id/editText11i"
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:ems="10"
+            android:hint="@string/comments"
+            android:inputType="textPersonName"
+            android:text=""
+
+            android:visibility="visible"
+            android:layout_above="@+id/progressBar4"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/gsts" />
+
+        <ProgressBar
+            android:id="@+id/progressBar4"
+            style="?android:attr/progressBarStyle"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:ignore="UselessLeaf">
+
+        <Button
+            android:id="@+id/button77"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentStart="true"
+            android:background="#FF162369"
+            android:fontFamily="sans-serif-condensed"
+            android:text="@string/finalize"
+            android:textColor="#CCCC00"
+            android:textSize="24sp" />
+
+    </RelativeLayout>
+</LinearLayout>

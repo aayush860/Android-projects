@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView39"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/textView17nin"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/mobile_number"
+        android:textColor="#FF162369"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/editText7inn"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:inputType="phone"
+        android:textColor="#FF162369"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/textView1MM6i"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:fontFamily="sans-serif-condensed"
+        android:text="@string/address"
+        android:textColor="#FF162369"
+        android:textSize="18sp"/>
+
+    <EditText
+        android:id="@+id/editTextB3i"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:fontFamily="sans-serif-condensed"
+        android:inputType="textPersonName"
+        android:textAlignment="textStart"
+        android:textColor="#FF162369"
+        android:textSize="18sp"/>
+
+    <RadioGroup
+        android:id="@+id/radioButtonnn"
+        android:layout_width="384dp"
+        android:layout_height="70dp"
+        android:text="@string/radio_button">
+
+        <RadioButton
+            android:id="@+id/codn"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:text="@string/cash_on_delivery"
+            android:textColor="#FF162369"
+
+            android:textSize="18sp" />
+
+        <RadioButton
+            android:id="@+id/carodnn"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:text="@string/card_on_delivery"
+            android:textColor="#FF162369"
+            android:textSize="18sp" />
+
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/textViewv"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="" />
+
+    <ProgressBar
+        android:id="@+id/progressBarim"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="match_parent"
+        android:layout_height="49dp"
+        android:layout_weight="1"/>
+
+    <Button
+        android:id="@+id/button10m"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:background="#FF162369"
+        android:fontFamily="sans-serif-condensed"
+        android:text="@string/order"
+        android:textColor="#CCCC00"
+        android:textSize="24sp"
+        android:layout_weight="0"/>
+
+
+
+</LinearLayout>

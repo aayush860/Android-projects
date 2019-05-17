@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="1">
+
+    <TextView
+        android:id="@+id/textView27"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/textView28"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="Shop Upto Rs.5000 And Get a Discount of 5%"
+        android:textAlignment="center"
+        android:textColor="#FF162369"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textView31"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/textView29"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="Shop from Rs.5000 to Rs.10000 and Get a Discount of 10%"
+        android:textAlignment="center"
+        android:textColor="#FF162369"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textView32"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/textView30"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="Shop Above 20000 And Get a Discount of 15%"
+        android:textAlignment="center"
+        android:textColor="#FF162369"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textView33"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:text=""
+        android:layout_weight="1"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:layout_weight="0">
+
+        <Button
+            android:id="@+id/button8"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:background="#FF162369"
+            android:fontFamily="sans-serif-condensed"
+            android:textColor="#CCCC00"
+            android:textSize="24sp"
+            android:text="CONTINUE" />
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView34"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#FF162369"
+        android:textSize="20sp"
+        android:fontFamily="sans-serif-condensed"
+        android:text="" />
+
+    <Button
+        android:id="@+id/button13I"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FF162369"
+        android:fontFamily="sans-serif-condensed"
+        android:textColor="#CCCC00"
+        android:textSize="24sp"
+        android:text="CALL US"/>
+</LinearLayout>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+    <TextView
+        android:id="@+id/texRTCVtView18"
+        android:layout_width="match_parent"
+        android:layout_height="6dp"
+        android:text="" />
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ADD"
+        android:background="#FF162369"
+        android:fontFamily="sans-serif-condensed"
+        android:textColor="#CCCC00"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="match_parent"
+        android:layout_height="6dp"
+        android:text="" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="UPDATE"
+        android:background="#FF162369"
+        android:fontFamily="sans-serif-condensed"
+        android:textColor="#CCCC00"
+        android:textSize="24sp" />
+
+
+    <TextView
+        android:id="@+id/textVsiew18"
+        android:layout_width="match_parent"
+        android:layout_height="6dp"
+        android:text="" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="DELETE"
+        android:background="#FF162369"
+        android:fontFamily="sans-serif-condensed"
+        android:textColor="#CCCC00"
+        android:textSize="24sp"  />
+
+    <TextView
+        android:id="@+id/tsssextView18"
+        android:layout_width="match_parent"
+        android:layout_height="6dp"
+        android:text="" />
+
+
+    <Button
+        android:id="@+id/button11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="My orders"
+        android:background="#FF162369"
+        android:fontFamily="sans-serif-condensed"
+        android:textColor="#CCCC00"
+        android:textSize="24sp" />
+
+
+    <TextView
+        android:id="@+id/twwwwextView18"
+        android:layout_width="match_parent"
+        android:layout_height="6dp"
+        android:text="" />
+
+    <Button
+        android:id="@+id/button13"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="register"
+        android:background="#FF162369"
+        android:fontFamily="sans-serif-condensed"
+        android:textColor="#CCCC00"
+        android:textSize="24sp" />
+</LinearLayout>

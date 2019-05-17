@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "905275218045",
+    "firebase_url": "https://e-b4fab.firebaseio.com",
+    "project_id": "e-b4fab",
+    "storage_bucket": "e-b4fab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905275218045:android:ff3097323cffff22",
+        "android_client_info": {
+          "package_name": "x.anew.indianfoodmrt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905275218045-54psppaqk7n4t11fnc9utu7o8p7mkkfh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "x.anew.indianfoodmrt",
+            "certificate_hash": "13801a21b996769d1b71a1393cf50ca0d3b9ff1f"
+          }
+        },
+        {
+          "client_id": "905275218045-ag8l6403su7uofo238t3fbs1008f1lg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiXj1qQ89PR53xjAvhfSn_OWmc6HDErUE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905275218045-ag8l6403su7uofo238t3fbs1008f1lg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
